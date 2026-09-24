@@ -40,7 +40,12 @@
 ## Структура репозитория
 
 Lab_1/
-├── README.md # этот файл
-├── bank.csv # датасет
-├── SkripkoDanil_4231133_lab1.ipynb # исполненный ноутбук
-└── requirements.txt # зависимости окружения
+
+├── README.md - этот файл 
+
+├── bank.csv - датасет
+
+├── SkripkoDanil_4231133_lab1.ipynb - исполненный ноутбук
+
+└── requirements.txt - зависимости окружения
+
